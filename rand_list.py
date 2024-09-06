@@ -6,3 +6,5 @@ def random_list(limit):
     return random.sample(range(0, 100), limit)
 
 print(random_list(-1))
+
+print(random_list(10))
