@@ -10,6 +10,7 @@ This project is a random list generator. It generates a list of random numbers w
     - first install `pip install -r requirements.txt`
     - then setup `.env` file with your API key (see the sample)
     - then run `python rand_list.py`
+    - then run `python testapi.py`
 
 - usage of the function:
   - example:
