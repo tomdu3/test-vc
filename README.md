@@ -29,5 +29,9 @@ This project is a random list generator. It generates a list of random numbers w
 **Modules used:**
 - `random`
 - `cowsay`
+- os
+- dotenv
+- requests
+- pprint
 
 © TDCode 2024
