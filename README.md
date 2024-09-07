@@ -6,7 +6,7 @@ This project is a random list generator. It generates a list of random numbers w
 ## Explanation
 
 - run program:
-
+    - make environment with: `python -m venv .venv`
     - first install `pip install -r requirements.txt`
     - then setup `.env` file with your API key (see the sample)
     - then run `python rand_list.py`
