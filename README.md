@@ -25,5 +25,6 @@ This project is a random list generator. It generates a list of random numbers w
 - Python
 **Modules used:**
 - `random`
+- `cowsay`
 
 © TDCode 2024
