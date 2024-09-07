@@ -6,11 +6,13 @@ This project is a random list generator. It generates a list of random numbers w
 ## Explanation
 
 - run program:
-    - make environment with: `python -m venv .venv`
-    - first install `pip install -r requirements.txt`
+    - make environment with: `python -m venv venv`
+    - activate environment: `venv\Scripts\activate.bat` in windows or `source venv/bin/activate` in linux
+    - install libraries: `pip install -r requirements.txt`
     - then setup `.env` file with your API key (see the sample)
     - then run `python rand_list.py`
     - then run `python testapi.py`
+    - then run `python top.py`
 
 - usage of the function:
   - example:
