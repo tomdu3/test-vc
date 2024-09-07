@@ -21,7 +21,9 @@ This project is a random list generator. It generates a list of random numbers w
   
 
 ## Deadline for the final project
-13 September 2024
+
+Students should submit their project on or before: **13 September 2024**
+They are also asked to upload their code possibly with the documentation on GitHub.
 
 ## Technologies used
 
