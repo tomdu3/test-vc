@@ -19,6 +19,11 @@ This project is a random list generator. It generates a list of random numbers w
 ## Deadline for the final project
 13 September 2024
 
-##
+## Technologies used
+
+**Programming languages used**:
+- Python
+**Modules used:**
+- `random`
 
 © TDCode 2024
