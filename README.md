@@ -23,6 +23,7 @@ This project is a random list generator. It generates a list of random numbers w
 
 **Programming languages used**:
 - Python
+
 **Modules used:**
 - `random`
 - `cowsay`
