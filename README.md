@@ -1,15 +1,24 @@
-# Git and GitHub Demo
+# Random List Generator
 
-![Random Image from the Internet](https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d)
+This project is a random list generator. It generates a list of random numbers which is of the size defined by the user.
 
-This is a demo of [Git](https://git-scm.com/) and [GitHub](https://github.com/) in action.
 
 ## Explanation
 
-1. **Git** is a version control system that keeps track of changes to files in a project.
-2. **GitHub** is a platform for hosting and sharing code.
+- run program:
+
+    - first install `pip install -r requirements.txt`
+    - then run `python rand_list.py`
+
+- usage of the function:
+  - example:
+    - `random_list(10)` will generate a list of 10 random numbers from 0 to 100
+    - `random_list(-1)` will generate a None, because the limit is less than 0
+  
 
 ## Deadline for the final project
 13 September 2024
+
+##
 
 © TDCode 2024
